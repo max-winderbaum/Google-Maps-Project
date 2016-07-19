@@ -1,0 +1,40 @@
+{
+  "name": "Google Maps Project",
+  "description": "Simple Map Destination Picker",
+  "version": "1.0.1",
+  "homepage": "https://github.com/max-winderbaum/Google-Maps-Project",
+  "authors": [
+    {
+      "name": "Max Winderbaum",
+      "url": "http://github.com/max-winderbaum/"
+    }
+  ],
+  "main": "app/index.html",
+  "moduleType": [
+    "amd"
+  ],
+  "keywords": [
+    "Google Maps"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "src/lib",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-mocks": "~1.4.7",
+    "requirejs": "~2.1.11",
+    "almond": "~0.2.9",
+    "jquery": "~2.1.1",
+    "angular": "~1.4.7",
+    "famous-polyfills": "~0.3.0",
+    "angular-ui-router": "~0.2.15",
+    "famous": "~0.3.5",
+    "requirejs-tpl-angular": "https://github.com/max-winderbaum/requirejs-tpl-angular.git#~1.0.1",
+    "text": "requirejs-text#~2.0.14",
+    "domReady": "~2.0.1"
+  }
+}

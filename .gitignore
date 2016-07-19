@@ -1,0 +1,23 @@
+# OS generated files #
+######################
+.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
+
+# Node Files #
+##############
+node_modules
+
+# Project Files #
+#################
+dist
+.tmp
+app/lib
+app/styles/app.css
+coverage
+
+# IntelliJ Files #
+##################
+**/*.idea
+**/*.iml
